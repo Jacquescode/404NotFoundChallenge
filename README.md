@@ -10,7 +10,7 @@ First Responsive Web Developer challenge from devChallenges
 
 <div align="center">
   <h3>
-    <a href="https://{https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1}">
+    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">
       Demo
     </a>
     <span> | </span>
