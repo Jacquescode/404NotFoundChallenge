@@ -1,5 +1,4 @@
-# 404NotFoundChallenge
-First Responsive Web Developer challenge from devChallenges
+
 <!-- Please update value in the {}  -->
 
 <h1 align="center">404NotFoundChallenge</h1>
