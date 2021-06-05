@@ -86,4 +86,17 @@ footer {
   .content {
     align-items: center;
   }
+
+  image {
+    width: 290px;
+    height: 240px;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  p {
+    font-size: 18px;
+  }
 }
