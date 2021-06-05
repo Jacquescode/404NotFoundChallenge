@@ -69,6 +69,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://links.jonaspace.com/)
-- GitHub [@your-username](https://github.com/Jacquescode)
-- Twitter [@your-twitter](https://twitter.com/JoJacquesQc)
+- Website [links.jonaspace.com](https://links.jonaspace.com/)
+- GitHub [Jacquescode](https://github.com/Jacquescode)
+- Twitter [JojacquesQc](https://twitter.com/JoJacquesQc)
