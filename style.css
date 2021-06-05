@@ -27,6 +27,11 @@ main {
   padding: 100px;
 }
 
+.image {
+  width: 539.22px;
+  height: 447.43px;
+}
+
 h1 {
   font-family: Space Mono;
   font-size: 64px;
@@ -87,7 +92,7 @@ footer {
     align-items: center;
   }
 
-  image {
+  .image {
     width: 290px;
     height: 240px;
   }
