@@ -38,6 +38,7 @@
 
 <img src="/images/screencapture.png">
 
+Hi there, I just finished my first DevChallenge! I use only HTML and CSS to achieve my work. More specifically Flexbox and Googlefonts.
 
 ### Built With
 
