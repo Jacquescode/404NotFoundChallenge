@@ -38,14 +38,14 @@
 
 <img src="/images/screencapture.png">
 
-Hi there, I just finished my first DevChallenge! I use only HTML and CSS to achieve my work. More specifically Flexbox and Googlefonts.
+I use only HTML and CSS to achieve my work. More specifically Flexbox and Googlefonts.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## Features
 
